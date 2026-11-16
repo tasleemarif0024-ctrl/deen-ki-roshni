@@ -1,0 +1,34 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "deenkiroshnihindi.blogspot",
+  "orientation": "portrait",
+  "scope": "/https://deenkiroshnihindi.blogspot.com",
+  "short_name": "deen ki roshni",
+  "start_url": "deenkiroshnihindi.blogspot",
+  "theme_color": "#008000",
+  "icons": [
+    {
+      "src": "https://deenkiroshnihindi.blogspot.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "https://deenkiroshnihindi.blogspot.com/",
+  "description": "हिंदी में कुरान, हदीस, दुआएँ और इस्लामिक जानकारी।",
+  "lang": "en",
+  "categories": [
+    "books",
+    "education",
+    "lifestyle",
+    "multimedia"
+  ]
+}
