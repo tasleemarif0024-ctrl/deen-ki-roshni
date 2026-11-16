@@ -1,30 +1,23 @@
 {
+  "id": "https://deenkiroshnihindi.blogspot.com/",
+  "name": "Deen Ki Roshni",
+  "short_name": "Deen Ki Roshni",
+  "description": "हिंदी में कुरान, हदीस, दुआएँ और इस्लामिक जानकारी।",
+  "start_url": "https://deenkiroshnihindi.blogspot.com/",
+  "scope": "https://deenkiroshnihindi.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#008000",
   "background_color": "#ffffff",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "deenkiroshnihindi.blogspot",
-  "orientation": "portrait",
-  "scope": "/https://deenkiroshnihindi.blogspot.com",
-  "short_name": "deen ki roshni",
-  "start_url": "deenkiroshnihindi.blogspot",
-  "theme_color": "#008000",
+  "lang": "en",
   "icons": [
     {
-      "src": "https://deenkiroshnihindi.blogspot.com/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "https://raw.githubusercontent.com/tasleemarif0024-ctrl/deen-ki-roshni/refs/heads/main/file_00000000a524820a85fd2cefee6b32bc.png",
+      "type": "image/png",
+      "sizes": "any"
     }
   ],
-  "id": "https://deenkiroshnihindi.blogspot.com/",
-  "description": "हिंदी में कुरान, हदीस, दुआएँ और इस्लामिक जानकारी।",
-  "lang": "en",
   "categories": [
     "books",
     "education",
