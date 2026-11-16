@@ -1,27 +1,26 @@
 {
-  "id": "https://deenkiroshnihindi.blogspot.com/",
-  "name": "Deen Ki Roshni",
-  "short_name": "Deen Ki Roshni",
-  "description": "हिंदी में कुरान, हदीस, दुआएँ और इस्लामिक जानकारी।",
-  "start_url": "https://deenkiroshnihindi.blogspot.com/",
-  "scope": "https://deenkiroshnihindi.blogspot.com/",
-  "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#008000",
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "lang": "en",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/tasleemarif0024-ctrl/deen-ki-roshni/refs/heads/main/file_00000000a524820a85fd2cefee6b32bc.png",
-      "type": "image/png",
-      "sizes": "any"
-    }
-  ],
-  "categories": [
-    "books",
-    "education",
-    "lifestyle",
-    "multimedia"
-  ]
+"id": "https://deenkiroshnihindi.blogspot.com/",
+"name": "Deen Ki Roshni",
+"short_name": "Deen Ki Roshni",
+"description": "हिंदी में कुरान, हदीस, दुआएँ और इस्लामिक जानकारी।",
+"start_url": "https://deenkiroshnihindi.blogspot.com/",
+"scope": "https://deenkiroshnihindi.blogspot.com/",
+"display": "standalone",
+"orientation": "portrait",
+"theme_color": "#008000",
+"background_color": "#ffffff",
+"dir": "ltr",
+"lang": "hi",
+"icons": [
+{
+"src": "https://raw.githubusercontent.com/tasleemarif0024-ctrl/deen-ki-roshni/main/1000632372-192x192.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "https://raw.githubusercontent.com/tasleemarif0024-ctrl/deen-ki-roshni/main/1000632372-512x512.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+]
 }
